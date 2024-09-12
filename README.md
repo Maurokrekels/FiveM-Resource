@@ -1,2 +1,2 @@
 # FiveM-Manifest
-FiveM fxmanifest template for your resource
+FiveM resource template for your resource
